@@ -1,0 +1,17 @@
+MetaTrader5
+pandas
+numpy
+pydantic
+python-dotenv
+openai
+loguru
+peewee
+psycopg2-binary
+requests
+httpx
+beautifulsoup4
+yfinance
+websockets
+fastapi
+uvicorn
+pytest
