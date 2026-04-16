@@ -1,58 +1,52 @@
-from ..core.logger import get_logger
+"""
+Scoring Engine - DailyAgent 2.1 (Backward Compatibility)
 
-logger = get_logger("ScoringEngine")
+Este modulo mantem a interface original ScoringEngine como alias
+do ForexScoringEngine. Codigo existente que importa ScoringEngine
+continua funcionando sem alteracao.
 
-class ScoringEngine:
-    def score_signals(self, signals, regime, regime_parent=None):
-        scored_signals = []
-        macro_score = regime['macro_score']
-        
-        for signal in signals:
-            # 1. Ajuste baseado no regime local
-            final_score = self._calculate_final_score(signal, macro_score)
-            
-            # 2. Ajuste baseado na confluência MTF (Timeframe Superior)
-            if regime_parent:
-                final_score = self._apply_mtf_confluence(signal, final_score, regime_parent)
-            
-            scored_signals.append({
-                **signal,
-                "final_score": round(final_score, 2)
-            })
-            
-        # Ordena por score final (melhores sinais primeiro)
-        scored_signals.sort(key=lambda x: x['final_score'], reverse=True)
-        return scored_signals
+Para novos usos, prefira:
+    from dailyagent.scoring.factory import get_scoring_engine
+    engine = get_scoring_engine("forex")  # ou "binary"
+"""
 
-    def _calculate_final_score(self, signal, macro_score):
-        direction_multiplier = 1.0
-        if signal['direction'] == "BUY":
-            direction_multiplier = 1.0 + (macro_score / 500)
-        else: # SELL
-            direction_multiplier = 1.0 - (macro_score / 500)
-            
-        return signal['strength'] * direction_multiplier
+from .forex_engine import (
+    ForexScoringEngine,
+    WEIGHT_STRUCTURE,
+    WEIGHT_LIQUIDITY,
+    WEIGHT_DISPLACEMENT,
+    WEIGHT_SESSION,
+    WEIGHT_ZONE,
+    WEIGHT_RISK,
+    PENALTY_NO_TARGET,
+    THRESHOLD_STRONG,
+    THRESHOLD_VALID,
+    RISK_REWARD_IDEAL,
+)
+from .shared import (
+    PENALTY_COUNTER_TREND,
+    PENALTY_WEAK_DISPLACEMENT,
+    DISPLACEMENT_STRONG_BODY_RATIO,
+)
 
-    def _apply_mtf_confluence(self, signal, current_score, regime_parent):
-        parent_trend = regime_parent['trend']
-        bonus = 1.0
-        
-        # Confluência Bullish
-        if signal['direction'] == "BUY":
-            if "bullish" in parent_trend:
-                bonus = 1.2 # +20% de bônus por estar a favor da maré maior
-                logger.info(f"✨ Bônus MTF aplicado para BUY (Trend Pai: {parent_trend})")
-            elif "bearish" in parent_trend:
-                bonus = 0.7 # -30% de penalidade por operar contra a maré maior
-                logger.info(f"⚠️ Penalidade MTF aplicada para BUY (Trend Pai: {parent_trend})")
-        
-        # Confluência Bearish
-        elif signal['direction'] == "SELL":
-            if "bearish" in parent_trend:
-                bonus = 1.2
-                logger.info(f"✨ Bônus MTF aplicado para SELL (Trend Pai: {parent_trend})")
-            elif "bullish" in parent_trend:
-                bonus = 0.7
-                logger.info(f"⚠️ Penalidade MTF aplicada para SELL (Trend Pai: {parent_trend})")
-                
-        return current_score * bonus
+
+class ScoringEngine(ForexScoringEngine):
+    """
+    Alias backward-compatible para ForexScoringEngine.
+
+    Comportamento identico ao ForexScoringEngine.
+    Output NAO inclui campo "mode" para manter compatibilidade
+    com testes existentes que nao esperam esse campo.
+    """
+
+    def score(self, structure: dict, liquidity: dict, setup: dict) -> dict:
+        result = super().score(structure, liquidity, setup)
+        # Remove "mode" para manter compatibilidade com testes existentes
+        result.pop("mode", None)
+        return result
+
+
+# Re-export _clamp for any code that imported it from here
+def _clamp(value: float, low: float = 0.0, high: float = 1.0) -> float:
+    """Clamp valor entre low e high."""
+    return min(max(value, low), high)

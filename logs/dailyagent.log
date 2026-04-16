@@ -4761,3 +4761,407 @@ O regime é *strong_bullish* com RSI neut...
 2026-04-16 09:39:42 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para USDJPY (M5)...
 2026-04-16 09:39:42 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para USDJPY M5, pulando.
 2026-04-16 09:39:43 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:126 - Ciclo binario concluido. Proximo em 60s.
+2026-04-16 09:40:43 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:104 - --- Ciclo BINARIO ---
+2026-04-16 09:40:43 | INFO     | dailyagent.core.validator:_validate_pending_binary_signals:115 - Validando 2 sinais binarios expirados...
+2026-04-16 09:40:43 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para GBPUSD, pulando validacao binaria.
+2026-04-16 09:40:43 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para USDJPY, pulando validacao binaria.
+2026-04-16 09:40:43 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para EURUSD (M5)...
+2026-04-16 09:40:43 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para EURUSD M5, pulando.
+2026-04-16 09:40:44 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para GBPUSD (M5)...
+2026-04-16 09:40:44 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para GBPUSD M5, pulando.
+2026-04-16 09:40:45 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para USDJPY (M5)...
+2026-04-16 09:40:45 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para USDJPY M5, pulando.
+2026-04-16 09:40:46 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:126 - Ciclo binario concluido. Proximo em 60s.
+2026-04-16 09:41:46 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:104 - --- Ciclo BINARIO ---
+2026-04-16 09:41:46 | INFO     | dailyagent.core.validator:_validate_pending_binary_signals:115 - Validando 3 sinais binarios expirados...
+2026-04-16 09:41:46 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para GBPUSD, pulando validacao binaria.
+2026-04-16 09:41:46 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para USDJPY, pulando validacao binaria.
+2026-04-16 09:41:46 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para EURUSD, pulando validacao binaria.
+2026-04-16 09:41:46 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para EURUSD (M5)...
+2026-04-16 09:41:46 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para EURUSD M5, pulando.
+2026-04-16 09:41:47 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para GBPUSD (M5)...
+2026-04-16 09:41:47 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para GBPUSD M5, pulando.
+2026-04-16 09:41:48 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para USDJPY (M5)...
+2026-04-16 09:41:48 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para USDJPY M5, pulando.
+2026-04-16 09:41:49 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:126 - Ciclo binario concluido. Proximo em 60s.
+2026-04-16 09:42:49 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:104 - --- Ciclo BINARIO ---
+2026-04-16 09:42:49 | INFO     | dailyagent.core.validator:_validate_pending_binary_signals:115 - Validando 3 sinais binarios expirados...
+2026-04-16 09:42:49 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para GBPUSD, pulando validacao binaria.
+2026-04-16 09:42:49 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para USDJPY, pulando validacao binaria.
+2026-04-16 09:42:49 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para EURUSD, pulando validacao binaria.
+2026-04-16 09:42:49 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para EURUSD (M5)...
+2026-04-16 09:42:49 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para EURUSD M5, pulando.
+2026-04-16 09:42:50 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para GBPUSD (M5)...
+2026-04-16 09:42:50 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para GBPUSD M5, pulando.
+2026-04-16 09:42:51 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para USDJPY (M5)...
+2026-04-16 09:42:51 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para USDJPY M5, pulando.
+2026-04-16 09:42:52 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:126 - Ciclo binario concluido. Proximo em 60s.
+2026-04-16 09:43:52 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:104 - --- Ciclo BINARIO ---
+2026-04-16 09:43:53 | INFO     | dailyagent.core.validator:_validate_pending_binary_signals:115 - Validando 3 sinais binarios expirados...
+2026-04-16 09:43:53 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para GBPUSD, pulando validacao binaria.
+2026-04-16 09:43:53 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para USDJPY, pulando validacao binaria.
+2026-04-16 09:43:53 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para EURUSD, pulando validacao binaria.
+2026-04-16 09:43:53 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para EURUSD (M5)...
+2026-04-16 09:43:53 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para EURUSD M5, pulando.
+2026-04-16 09:43:54 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para GBPUSD (M5)...
+2026-04-16 09:43:54 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para GBPUSD M5, pulando.
+2026-04-16 09:43:55 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para USDJPY (M5)...
+2026-04-16 09:43:55 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para USDJPY M5, pulando.
+2026-04-16 09:43:56 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:126 - Ciclo binario concluido. Proximo em 60s.
+2026-04-16 09:44:56 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:104 - --- Ciclo BINARIO ---
+2026-04-16 09:44:56 | INFO     | dailyagent.core.validator:_validate_pending_binary_signals:115 - Validando 3 sinais binarios expirados...
+2026-04-16 09:44:56 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para GBPUSD, pulando validacao binaria.
+2026-04-16 09:44:56 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para USDJPY, pulando validacao binaria.
+2026-04-16 09:44:56 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para EURUSD, pulando validacao binaria.
+2026-04-16 09:44:56 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para EURUSD (M5)...
+2026-04-16 09:44:56 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para EURUSD M5, pulando.
+2026-04-16 09:44:57 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para GBPUSD (M5)...
+2026-04-16 09:44:57 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para GBPUSD M5, pulando.
+2026-04-16 09:44:58 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para USDJPY (M5)...
+2026-04-16 09:44:58 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para USDJPY M5, pulando.
+2026-04-16 09:44:59 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:126 - Ciclo binario concluido. Proximo em 60s.
+2026-04-16 09:45:59 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:104 - --- Ciclo BINARIO ---
+2026-04-16 09:45:59 | INFO     | dailyagent.core.validator:_validate_pending_binary_signals:115 - Validando 3 sinais binarios expirados...
+2026-04-16 09:45:59 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para GBPUSD, pulando validacao binaria.
+2026-04-16 09:45:59 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para USDJPY, pulando validacao binaria.
+2026-04-16 09:45:59 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para EURUSD, pulando validacao binaria.
+2026-04-16 09:45:59 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para EURUSD (M5)...
+2026-04-16 09:45:59 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para EURUSD M5, pulando.
+2026-04-16 09:46:00 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para GBPUSD (M5)...
+2026-04-16 09:46:00 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para GBPUSD M5, pulando.
+2026-04-16 09:46:01 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para USDJPY (M5)...
+2026-04-16 09:46:01 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para USDJPY M5, pulando.
+2026-04-16 09:46:02 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:126 - Ciclo binario concluido. Proximo em 60s.
+2026-04-16 09:47:02 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:104 - --- Ciclo BINARIO ---
+2026-04-16 09:47:02 | INFO     | dailyagent.core.validator:_validate_pending_binary_signals:115 - Validando 3 sinais binarios expirados...
+2026-04-16 09:47:02 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para GBPUSD, pulando validacao binaria.
+2026-04-16 09:47:02 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para USDJPY, pulando validacao binaria.
+2026-04-16 09:47:02 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para EURUSD, pulando validacao binaria.
+2026-04-16 09:47:02 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para EURUSD (M5)...
+2026-04-16 09:47:02 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para EURUSD M5, pulando.
+2026-04-16 09:47:03 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para GBPUSD (M5)...
+2026-04-16 09:47:03 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para GBPUSD M5, pulando.
+2026-04-16 09:47:04 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para USDJPY (M5)...
+2026-04-16 09:47:04 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para USDJPY M5, pulando.
+2026-04-16 09:47:05 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:126 - Ciclo binario concluido. Proximo em 60s.
+2026-04-16 09:48:05 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:104 - --- Ciclo BINARIO ---
+2026-04-16 09:48:05 | INFO     | dailyagent.core.validator:_validate_pending_binary_signals:115 - Validando 3 sinais binarios expirados...
+2026-04-16 09:48:05 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para GBPUSD, pulando validacao binaria.
+2026-04-16 09:48:05 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para USDJPY, pulando validacao binaria.
+2026-04-16 09:48:05 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para EURUSD, pulando validacao binaria.
+2026-04-16 09:48:05 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para EURUSD (M5)...
+2026-04-16 09:48:05 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para EURUSD M5, pulando.
+2026-04-16 09:48:06 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para GBPUSD (M5)...
+2026-04-16 09:48:06 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para GBPUSD M5, pulando.
+2026-04-16 09:48:07 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para USDJPY (M5)...
+2026-04-16 09:48:07 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para USDJPY M5, pulando.
+2026-04-16 09:48:08 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:126 - Ciclo binario concluido. Proximo em 60s.
+2026-04-16 09:49:08 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:104 - --- Ciclo BINARIO ---
+2026-04-16 09:49:08 | INFO     | dailyagent.core.validator:_validate_pending_binary_signals:115 - Validando 3 sinais binarios expirados...
+2026-04-16 09:49:08 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para GBPUSD, pulando validacao binaria.
+2026-04-16 09:49:08 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para USDJPY, pulando validacao binaria.
+2026-04-16 09:49:08 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para EURUSD, pulando validacao binaria.
+2026-04-16 09:49:08 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para EURUSD (M5)...
+2026-04-16 09:49:08 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para EURUSD M5, pulando.
+2026-04-16 09:49:09 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para GBPUSD (M5)...
+2026-04-16 09:49:09 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para GBPUSD M5, pulando.
+2026-04-16 09:49:10 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para USDJPY (M5)...
+2026-04-16 09:49:10 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para USDJPY M5, pulando.
+2026-04-16 09:49:11 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:126 - Ciclo binario concluido. Proximo em 60s.
+2026-04-16 09:50:11 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:104 - --- Ciclo BINARIO ---
+2026-04-16 09:50:11 | INFO     | dailyagent.core.validator:_validate_pending_binary_signals:115 - Validando 3 sinais binarios expirados...
+2026-04-16 09:50:11 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para GBPUSD, pulando validacao binaria.
+2026-04-16 09:50:11 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para USDJPY, pulando validacao binaria.
+2026-04-16 09:50:11 | WARNING  | dailyagent.core.validator:_validate_pending_binary_signals:121 - Sem tick para EURUSD, pulando validacao binaria.
+2026-04-16 09:50:11 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para EURUSD (M5)...
+2026-04-16 09:50:11 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para EURUSD M5, pulando.
+2026-04-16 09:50:12 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para GBPUSD (M5)...
+2026-04-16 09:50:12 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para GBPUSD M5, pulando.
+2026-04-16 09:50:13 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para USDJPY (M5)...
+2026-04-16 09:50:13 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para USDJPY M5, pulando.
+2026-04-16 09:50:14 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:126 - Ciclo binario concluido. Proximo em 60s.
+2026-04-16 09:50:26 | INFO     | dailyagent.core.monitor:_monitor_loop:75 - --- Iniciando ciclo de VALIDACAO ---
+2026-04-16 09:50:26 | INFO     | dailyagent.core.validator:validate_pending_signals:16 - Iniciando validacao de sinais pendentes...
+2026-04-16 09:50:26 | INFO     | dailyagent.core.mt5_client:connect:14 - Conectado ao terminal MT5 ativo.
+2026-04-16 09:50:26 | INFO     | dailyagent.core.validator:validate_pending_signals:33 - Encontrados 12 sinais forex para validar.
+2026-04-16 09:50:26 | INFO     | dailyagent.core.validator:_validate_pending_binary_signals:115 - Validando 3 sinais binarios expirados...
+2026-04-16 09:50:26 | INFO     | dailyagent.core.validator:_validate_pending_binary_signals:144 - Binario GBPUSD: CALL M5 -> ITM (entrada=1.35459 saida=1.35487)
+2026-04-16 09:50:27 | INFO     | dailyagent.notifications.waha:send_message:46 - Mensagem enviada via WhatsApp para 5517981093560@c.us
+2026-04-16 09:50:27 | INFO     | dailyagent.core.validator:_validate_pending_binary_signals:144 - Binario USDJPY: CALL M5 -> ITM (entrada=159.036 saida=159.067)
+2026-04-16 09:50:28 | INFO     | dailyagent.notifications.waha:send_message:46 - Mensagem enviada via WhatsApp para 5517981093560@c.us
+2026-04-16 09:50:28 | INFO     | dailyagent.core.validator:_validate_pending_binary_signals:144 - Binario EURUSD: PUT M5 -> OTM (entrada=1.17805 saida=1.17827)
+2026-04-16 09:50:28 | INFO     | dailyagent.notifications.waha:send_message:46 - Mensagem enviada via WhatsApp para 5517981093560@c.us
+2026-04-16 09:50:28 | INFO     | dailyagent.core.mt5_client:disconnect:22 - Desconectado do MT5
+2026-04-16 09:50:28 | INFO     | dailyagent.core.monitor:_monitor_loop:84 - --- Iniciando ciclo de MONITORAMENTO ---
+2026-04-16 09:50:28 | INFO     | dailyagent.core.agent:run_for_symbol:39 - Iniciando execucao para EURUSD (Quick Verdict Mode)...
+2026-04-16 09:50:28 | INFO     | dailyagent.core.mt5_client:connect:14 - Conectado ao terminal MT5 ativo.
+2026-04-16 09:50:28 | INFO     | dailyagent.features.fundamentals:get_latest_news:26 - Buscando notícias fundamentais para EURUSD (Ticker: EURUSD=X)...
+2026-04-16 09:50:29 | INFO     | dailyagent.features.fundamentals:get_latest_news:45 - Notícias encontradas: 5
+2026-04-16 09:50:29 | INFO     | dailyagent.features.processor:generate_features:14 - Gerando features para EURUSD (Timeframe: 16408)
+2026-04-16 09:50:29 | INFO     | dailyagent.core.mt5_client:get_data:35 - Dados capturados: 500 candles. Último (UTC): 2026-04-16 00:00:00+00:00
+2026-04-16 09:50:29 | INFO     | dailyagent.features.processor:generate_features:47 - Features geradas com sucesso: 300 candles processados.
+2026-04-16 09:50:29 | INFO     | dailyagent.regime.classifier:classify:29 - Regime detectado: bullish | Vol: normal | Score: 20
+2026-04-16 09:50:29 | INFO     | dailyagent.features.processor:generate_features:14 - Gerando features para EURUSD (Timeframe: 16385)
+2026-04-16 09:50:29 | INFO     | dailyagent.core.mt5_client:get_data:35 - Dados capturados: 700 candles. Último (UTC): 2026-04-16 15:00:00+00:00
+2026-04-16 09:50:29 | INFO     | dailyagent.features.processor:generate_features:47 - Features geradas com sucesso: 500 candles processados.
+2026-04-16 09:50:29 | INFO     | dailyagent.regime.classifier:classify:29 - Regime detectado: bearish | Vol: normal | Score: -30
+2026-04-16 09:50:29 | INFO     | dailyagent.llm.debate:get_quick_verdict:110 - Quick verdict para EURUSD (mode=forex)...
+2026-04-16 09:50:31 | INFO     | dailyagent.llm.debate:get_quick_verdict:141 - Quick verdict concluido para EURUSD: **DECISAO: AGUARDAR | CONFIANCA: 60%**
+*Conflito de regimes (bearish no curto pr...
+2026-04-16 09:50:31 | INFO     | dailyagent.core.agent:_save_results:362 - Dados salvos no banco para EURUSD (Preco: 1.17827)
+2026-04-16 09:50:31 | INFO     | dailyagent.core.agent:run_for_symbol:80 - Veredito AGUARDAR para EURUSD - alerta suprimido
+2026-04-16 09:50:31 | INFO     | dailyagent.core.mt5_client:disconnect:22 - Desconectado do MT5
+2026-04-16 09:50:33 | INFO     | dailyagent.core.agent:run_for_symbol:39 - Iniciando execucao para GBPUSD (Quick Verdict Mode)...
+2026-04-16 09:50:33 | INFO     | dailyagent.core.mt5_client:connect:14 - Conectado ao terminal MT5 ativo.
+2026-04-16 09:50:33 | INFO     | dailyagent.features.fundamentals:get_latest_news:26 - Buscando notícias fundamentais para GBPUSD (Ticker: GBPUSD=X)...
+2026-04-16 09:50:34 | INFO     | dailyagent.features.fundamentals:get_latest_news:45 - Notícias encontradas: 5
+2026-04-16 09:50:34 | INFO     | dailyagent.features.processor:generate_features:14 - Gerando features para GBPUSD (Timeframe: 16408)
+2026-04-16 09:50:34 | INFO     | dailyagent.core.mt5_client:get_data:35 - Dados capturados: 500 candles. Último (UTC): 2026-04-16 00:00:00+00:00
+2026-04-16 09:50:34 | INFO     | dailyagent.features.processor:generate_features:47 - Features geradas com sucesso: 300 candles processados.
+2026-04-16 09:50:34 | INFO     | dailyagent.regime.classifier:classify:29 - Regime detectado: bullish | Vol: normal | Score: 20
+2026-04-16 09:50:34 | INFO     | dailyagent.features.processor:generate_features:14 - Gerando features para GBPUSD (Timeframe: 16385)
+2026-04-16 09:50:34 | INFO     | dailyagent.core.mt5_client:get_data:35 - Dados capturados: 700 candles. Último (UTC): 2026-04-16 15:00:00+00:00
+2026-04-16 09:50:34 | INFO     | dailyagent.features.processor:generate_features:47 - Features geradas com sucesso: 500 candles processados.
+2026-04-16 09:50:34 | INFO     | dailyagent.regime.classifier:classify:29 - Regime detectado: bearish | Vol: normal | Score: -30
+2026-04-16 09:50:34 | INFO     | dailyagent.llm.debate:get_quick_verdict:110 - Quick verdict para GBPUSD (mode=forex)...
+2026-04-16 09:50:36 | INFO     | dailyagent.llm.debate:get_quick_verdict:141 - Quick verdict concluido para GBPUSD: **DECISAO: VENDA | CONFIANCA: 75%**
+- Tendência *bearish* no menor prazo (GBPUSD...
+2026-04-16 09:50:36 | INFO     | dailyagent.core.agent:_save_results:362 - Dados salvos no banco para GBPUSD (Preco: 1.3548)
+2026-04-16 09:50:36 | INFO     | dailyagent.core.agent:run_for_symbol:74 - Veredito acionavel para GBPUSD: VENDA - enviando alerta
+2026-04-16 09:50:37 | INFO     | dailyagent.notifications.waha:send_message:46 - Mensagem enviada via WhatsApp para 5517981093560@c.us
+2026-04-16 09:50:37 | INFO     | dailyagent.core.mt5_client:disconnect:22 - Desconectado do MT5
+2026-04-16 09:50:39 | INFO     | dailyagent.core.agent:run_for_symbol:39 - Iniciando execucao para USDJPY (Quick Verdict Mode)...
+2026-04-16 09:50:39 | INFO     | dailyagent.core.mt5_client:connect:14 - Conectado ao terminal MT5 ativo.
+2026-04-16 09:50:39 | INFO     | dailyagent.features.fundamentals:get_latest_news:26 - Buscando notícias fundamentais para USDJPY (Ticker: USDJPY=X)...
+2026-04-16 09:50:39 | INFO     | dailyagent.features.fundamentals:get_latest_news:45 - Notícias encontradas: 5
+2026-04-16 09:50:39 | INFO     | dailyagent.features.processor:generate_features:14 - Gerando features para USDJPY (Timeframe: 16408)
+2026-04-16 09:50:39 | INFO     | dailyagent.core.mt5_client:get_data:35 - Dados capturados: 500 candles. Último (UTC): 2026-04-16 00:00:00+00:00
+2026-04-16 09:50:39 | INFO     | dailyagent.features.processor:generate_features:47 - Features geradas com sucesso: 300 candles processados.
+2026-04-16 09:50:39 | INFO     | dailyagent.regime.classifier:classify:29 - Regime detectado: bullish | Vol: low | Score: 30
+2026-04-16 09:50:39 | INFO     | dailyagent.features.processor:generate_features:14 - Gerando features para USDJPY (Timeframe: 16385)
+2026-04-16 09:50:39 | INFO     | dailyagent.core.mt5_client:get_data:35 - Dados capturados: 700 candles. Último (UTC): 2026-04-16 15:00:00+00:00
+2026-04-16 09:50:39 | INFO     | dailyagent.features.processor:generate_features:47 - Features geradas com sucesso: 500 candles processados.
+2026-04-16 09:50:39 | INFO     | dailyagent.regime.classifier:classify:29 - Regime detectado: bullish | Vol: expanding | Score: 30
+2026-04-16 09:50:39 | INFO     | dailyagent.llm.debate:get_quick_verdict:110 - Quick verdict para USDJPY (mode=forex)...
+2026-04-16 09:50:40 | INFO     | dailyagent.llm.debate:get_quick_verdict:141 - Quick verdict concluido para USDJPY: **DECISÂO: COMPRA | CONFIANÇA: 75%**
+O regime bullish aluminado com volatilidade...
+2026-04-16 09:50:40 | INFO     | dailyagent.core.agent:_save_results:362 - Dados salvos no banco para USDJPY (Preco: 159.071)
+2026-04-16 09:50:40 | INFO     | dailyagent.core.agent:run_for_symbol:74 - Veredito acionavel para USDJPY: COMPRA - enviando alerta
+2026-04-16 09:50:41 | INFO     | dailyagent.notifications.waha:send_message:46 - Mensagem enviada via WhatsApp para 5517981093560@c.us
+2026-04-16 09:50:41 | INFO     | dailyagent.core.mt5_client:disconnect:22 - Desconectado do MT5
+2026-04-16 09:50:43 | INFO     | dailyagent.core.agent:run_for_symbol:39 - Iniciando execucao para BTCUSD (Quick Verdict Mode)...
+2026-04-16 09:50:43 | INFO     | dailyagent.core.mt5_client:connect:14 - Conectado ao terminal MT5 ativo.
+2026-04-16 09:50:43 | INFO     | dailyagent.features.fundamentals:get_latest_news:26 - Buscando notícias fundamentais para BTCUSD (Ticker: BTC-USD)...
+2026-04-16 09:50:44 | INFO     | dailyagent.features.fundamentals:get_latest_news:45 - Notícias encontradas: 5
+2026-04-16 09:50:44 | INFO     | dailyagent.features.processor:generate_features:14 - Gerando features para BTCUSD (Timeframe: 16408)
+2026-04-16 09:50:44 | INFO     | dailyagent.core.mt5_client:get_data:35 - Dados capturados: 500 candles. Último (UTC): 2026-04-16 00:00:00+00:00
+2026-04-16 09:50:44 | INFO     | dailyagent.features.processor:generate_features:47 - Features geradas com sucesso: 300 candles processados.
+2026-04-16 09:50:44 | INFO     | dailyagent.regime.classifier:classify:29 - Regime detectado: bullish | Vol: low | Score: 20
+2026-04-16 09:50:44 | INFO     | dailyagent.features.processor:generate_features:14 - Gerando features para BTCUSD (Timeframe: 16385)
+2026-04-16 09:50:44 | INFO     | dailyagent.core.mt5_client:get_data:35 - Dados capturados: 700 candles. Último (UTC): 2026-04-16 15:00:00+00:00
+2026-04-16 09:50:44 | INFO     | dailyagent.features.processor:generate_features:47 - Features geradas com sucesso: 500 candles processados.
+2026-04-16 09:50:44 | INFO     | dailyagent.regime.classifier:classify:29 - Regime detectado: bullish | Vol: normal | Score: 30
+2026-04-16 09:50:44 | INFO     | dailyagent.llm.debate:get_quick_verdict:110 - Quick verdict para BTCUSD (mode=forex)...
+2026-04-16 09:50:45 | INFO     | dailyagent.llm.debate:get_quick_verdict:141 - Quick verdict concluido para BTCUSD: **DECISÃO: AGUARDAR | CONFIANÇA: 65%**
+**Justificativa:** Técnico em zona de sob...
+2026-04-16 09:50:45 | INFO     | dailyagent.core.agent:_save_results:362 - Dados salvos no banco para BTCUSD (Preco: 74613.0)
+2026-04-16 09:50:45 | INFO     | dailyagent.core.agent:run_for_symbol:80 - Veredito AGUARDAR para BTCUSD - alerta suprimido
+2026-04-16 09:50:45 | INFO     | dailyagent.core.mt5_client:disconnect:22 - Desconectado do MT5
+2026-04-16 09:50:47 | INFO     | dailyagent.core.agent:run_for_symbol:39 - Iniciando execucao para ETHUSD (Quick Verdict Mode)...
+2026-04-16 09:50:47 | INFO     | dailyagent.core.mt5_client:connect:14 - Conectado ao terminal MT5 ativo.
+2026-04-16 09:50:47 | INFO     | dailyagent.features.fundamentals:get_latest_news:26 - Buscando notícias fundamentais para ETHUSD (Ticker: ETH-USD)...
+2026-04-16 09:50:48 | INFO     | dailyagent.features.fundamentals:get_latest_news:45 - Notícias encontradas: 5
+2026-04-16 09:50:48 | INFO     | dailyagent.features.processor:generate_features:14 - Gerando features para ETHUSD (Timeframe: 16408)
+2026-04-16 09:50:48 | INFO     | dailyagent.core.mt5_client:get_data:35 - Dados capturados: 500 candles. Último (UTC): 2026-04-16 00:00:00+00:00
+2026-04-16 09:50:48 | INFO     | dailyagent.features.processor:generate_features:47 - Features geradas com sucesso: 300 candles processados.
+2026-04-16 09:50:48 | INFO     | dailyagent.regime.classifier:classify:29 - Regime detectado: bullish | Vol: low | Score: 20
+2026-04-16 09:50:48 | INFO     | dailyagent.features.processor:generate_features:14 - Gerando features para ETHUSD (Timeframe: 16385)
+2026-04-16 09:50:48 | INFO     | dailyagent.core.mt5_client:get_data:35 - Dados capturados: 700 candles. Último (UTC): 2026-04-16 15:00:00+00:00
+2026-04-16 09:50:48 | INFO     | dailyagent.features.processor:generate_features:47 - Features geradas com sucesso: 500 candles processados.
+2026-04-16 09:50:48 | INFO     | dailyagent.regime.classifier:classify:29 - Regime detectado: bearish | Vol: low | Score: -20
+2026-04-16 09:50:48 | INFO     | dailyagent.signals.engine:_is_pullback_confluence:73 - ✨ Confluência de Pullback de VENDA detectada!
+2026-04-16 09:50:48 | INFO     | dailyagent.scoring.engine:_apply_mtf_confluence:56 - ⚠️ Penalidade MTF aplicada para SELL (Trend Pai: bullish)
+2026-04-16 09:50:48 | INFO     | dailyagent.llm.debate:get_quick_verdict:110 - Quick verdict para ETHUSD (mode=forex)...
+2026-04-16 09:50:55 | INFO     | dailyagent.llm.debate:get_quick_verdict:141 - Quick verdict concluido para ETHUSD: **DECISAO: VENDA | CONFIANCA: 85%**
+Regime bearish com RSI próximo a sobrevenda ...
+2026-04-16 09:50:55 | INFO     | dailyagent.core.agent:_save_results:362 - Dados salvos no banco para ETHUSD (Preco: 2337.7)
+2026-04-16 09:50:55 | INFO     | dailyagent.core.agent:run_for_symbol:74 - Veredito acionavel para ETHUSD: VENDA - enviando alerta
+2026-04-16 09:50:56 | INFO     | dailyagent.notifications.waha:send_message:46 - Mensagem enviada via WhatsApp para 5517981093560@c.us
+2026-04-16 09:50:56 | INFO     | dailyagent.core.mt5_client:disconnect:22 - Desconectado do MT5
+2026-04-16 09:50:58 | INFO     | dailyagent.core.agent:run_for_symbol:39 - Iniciando execucao para NAS100 (Quick Verdict Mode)...
+2026-04-16 09:50:58 | INFO     | dailyagent.core.mt5_client:connect:14 - Conectado ao terminal MT5 ativo.
+2026-04-16 09:50:58 | INFO     | dailyagent.features.fundamentals:get_latest_news:26 - Buscando notícias fundamentais para NAS100 (Ticker: NAS100=X)...
+2026-04-16 09:50:58 | WARNING  | dailyagent.features.fundamentals:get_latest_news:33 - Nenhuma notícia encontrada para NAS100
+2026-04-16 09:50:58 | INFO     | dailyagent.features.processor:generate_features:14 - Gerando features para NAS100 (Timeframe: 16408)
+2026-04-16 09:50:58 | INFO     | dailyagent.core.mt5_client:get_data:35 - Dados capturados: 500 candles. Último (UTC): 2026-04-16 00:00:00+00:00
+2026-04-16 09:50:58 | INFO     | dailyagent.features.processor:generate_features:47 - Features geradas com sucesso: 300 candles processados.
+2026-04-16 09:50:58 | INFO     | dailyagent.regime.classifier:classify:29 - Regime detectado: bullish | Vol: expanding | Score: 20
+2026-04-16 09:50:58 | INFO     | dailyagent.features.processor:generate_features:14 - Gerando features para NAS100 (Timeframe: 16385)
+2026-04-16 09:50:58 | INFO     | dailyagent.core.mt5_client:get_data:35 - Dados capturados: 700 candles. Último (UTC): 2026-04-16 15:00:00+00:00
+2026-04-16 09:50:58 | INFO     | dailyagent.features.processor:generate_features:47 - Features geradas com sucesso: 500 candles processados.
+2026-04-16 09:50:58 | INFO     | dailyagent.regime.classifier:classify:29 - Regime detectado: strong_bullish | Vol: normal | Score: 60
+2026-04-16 09:50:58 | INFO     | dailyagent.llm.debate:get_quick_verdict:110 - Quick verdict para NAS100 (mode=forex)...
+2026-04-16 09:51:00 | INFO     | dailyagent.llm.debate:get_quick_verdict:141 - Quick verdict concluido para NAS100: **DECISÃO: COMPRA | CONFIANÇA: 75%**
+*Regime bullish com RSI neutro (54.5) no NA...
+2026-04-16 09:51:00 | INFO     | dailyagent.core.agent:_save_results:362 - Dados salvos no banco para NAS100 (Preco: 26278.5)
+2026-04-16 09:51:00 | INFO     | dailyagent.core.agent:run_for_symbol:74 - Veredito acionavel para NAS100: COMPRA - enviando alerta
+2026-04-16 09:51:01 | INFO     | dailyagent.notifications.waha:send_message:46 - Mensagem enviada via WhatsApp para 5517981093560@c.us
+2026-04-16 09:51:01 | INFO     | dailyagent.core.mt5_client:disconnect:22 - Desconectado do MT5
+2026-04-16 09:51:03 | INFO     | dailyagent.core.agent:run_for_symbol:39 - Iniciando execucao para SPX500 (Quick Verdict Mode)...
+2026-04-16 09:51:03 | INFO     | dailyagent.core.mt5_client:connect:14 - Conectado ao terminal MT5 ativo.
+2026-04-16 09:51:03 | INFO     | dailyagent.features.fundamentals:get_latest_news:26 - Buscando notícias fundamentais para SPX500 (Ticker: SPX500=X)...
+2026-04-16 09:51:04 | WARNING  | dailyagent.features.fundamentals:get_latest_news:33 - Nenhuma notícia encontrada para SPX500
+2026-04-16 09:51:04 | INFO     | dailyagent.features.processor:generate_features:14 - Gerando features para SPX500 (Timeframe: 16408)
+2026-04-16 09:51:04 | INFO     | dailyagent.core.mt5_client:get_data:35 - Dados capturados: 500 candles. Último (UTC): 2026-04-16 00:00:00+00:00
+2026-04-16 09:51:04 | INFO     | dailyagent.features.processor:generate_features:47 - Features geradas com sucesso: 300 candles processados.
+2026-04-16 09:51:04 | INFO     | dailyagent.regime.classifier:classify:29 - Regime detectado: bullish | Vol: expanding | Score: 20
+2026-04-16 09:51:04 | INFO     | dailyagent.features.processor:generate_features:14 - Gerando features para SPX500 (Timeframe: 16385)
+2026-04-16 09:51:04 | INFO     | dailyagent.core.mt5_client:get_data:35 - Dados capturados: 700 candles. Último (UTC): 2026-04-16 15:00:00+00:00
+2026-04-16 09:51:04 | INFO     | dailyagent.features.processor:generate_features:47 - Features geradas com sucesso: 500 candles processados.
+2026-04-16 09:51:04 | INFO     | dailyagent.regime.classifier:classify:29 - Regime detectado: strong_bullish | Vol: normal | Score: 60
+2026-04-16 09:51:04 | INFO     | dailyagent.llm.debate:get_quick_verdict:110 - Quick verdict para SPX500 (mode=forex)...
+2026-04-16 09:51:07 | INFO     | dailyagent.llm.debate:get_quick_verdict:141 - Quick verdict concluido para SPX500: **DECISÃO: COMPRA | CONFIAÇA: 75%**
+
+Registro:
+- Trend forte bullish no ativo (S...
+2026-04-16 09:51:07 | INFO     | dailyagent.core.agent:_save_results:362 - Dados salvos no banco para SPX500 (Preco: 7040.3)
+2026-04-16 09:51:07 | INFO     | dailyagent.core.agent:run_for_symbol:74 - Veredito acionavel para SPX500: COMPRA - enviando alerta
+2026-04-16 09:51:08 | INFO     | dailyagent.notifications.waha:send_message:46 - Mensagem enviada via WhatsApp para 5517981093560@c.us
+2026-04-16 09:51:08 | INFO     | dailyagent.core.mt5_client:disconnect:22 - Desconectado do MT5
+2026-04-16 09:51:10 | INFO     | dailyagent.core.monitor:_monitor_loop:95 - Ciclo concluido. Proxima verificacao em 15 minutos.
+2026-04-16 09:51:14 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:104 - --- Ciclo BINARIO ---
+2026-04-16 09:51:14 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para EURUSD (M5)...
+2026-04-16 09:51:14 | INFO     | dailyagent.core.mt5_client:connect:14 - Conectado ao terminal MT5 ativo.
+2026-04-16 09:51:14 | INFO     | dailyagent.features.processor:generate_features:14 - Gerando features para EURUSD (Timeframe: 16385)
+2026-04-16 09:51:14 | INFO     | dailyagent.core.mt5_client:get_data:35 - Dados capturados: 500 candles. Último (UTC): 2026-04-16 15:00:00+00:00
+2026-04-16 09:51:14 | INFO     | dailyagent.features.processor:generate_features:47 - Features geradas com sucesso: 300 candles processados.
+2026-04-16 09:51:14 | INFO     | dailyagent.regime.classifier:classify:29 - Regime detectado: bearish | Vol: normal | Score: -30
+2026-04-16 09:51:14 | INFO     | dailyagent.features.processor:generate_features:14 - Gerando features para EURUSD (Timeframe: 5)
+2026-04-16 09:51:14 | INFO     | dailyagent.core.mt5_client:get_data:35 - Dados capturados: 700 candles. Último (UTC): 2026-04-16 15:50:00+00:00
+2026-04-16 09:51:14 | INFO     | dailyagent.features.processor:generate_features:47 - Features geradas com sucesso: 500 candles processados.
+2026-04-16 09:51:14 | INFO     | dailyagent.regime.classifier:classify:29 - Regime detectado: bullish | Vol: low | Score: 30
+2026-04-16 09:51:14 | INFO     | dailyagent.llm.debate:get_quick_verdict:110 - Quick verdict para EURUSD (mode=binary)...
+2026-04-16 09:51:16 | INFO     | dailyagent.llm.debate:get_quick_verdict:141 - Quick verdict concluido para EURUSD: **DECISÃO: CALL | CONFIANÇA: 60%**
+
+Motivo: Regime bullish em M5 com RSI neutro ...
+2026-04-16 09:51:16 | INFO     | dailyagent.core.agent:run_for_symbol_binary:195 - Binario EURUSD: CALL conf=60% (threshold=65%) - sinal suprimido
+2026-04-16 09:51:16 | INFO     | dailyagent.core.mt5_client:disconnect:22 - Desconectado do MT5
+2026-04-16 09:51:17 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para GBPUSD (M5)...
+2026-04-16 09:51:17 | INFO     | dailyagent.core.mt5_client:connect:14 - Conectado ao terminal MT5 ativo.
+2026-04-16 09:51:17 | INFO     | dailyagent.features.processor:generate_features:14 - Gerando features para GBPUSD (Timeframe: 16385)
+2026-04-16 09:51:17 | INFO     | dailyagent.core.mt5_client:get_data:35 - Dados capturados: 500 candles. Último (UTC): 2026-04-16 15:00:00+00:00
+2026-04-16 09:51:17 | INFO     | dailyagent.features.processor:generate_features:47 - Features geradas com sucesso: 300 candles processados.
+2026-04-16 09:51:17 | INFO     | dailyagent.regime.classifier:classify:29 - Regime detectado: bearish | Vol: normal | Score: -30
+2026-04-16 09:51:17 | INFO     | dailyagent.features.processor:generate_features:14 - Gerando features para GBPUSD (Timeframe: 5)
+2026-04-16 09:51:17 | INFO     | dailyagent.core.mt5_client:get_data:35 - Dados capturados: 700 candles. Último (UTC): 2026-04-16 15:50:00+00:00
+2026-04-16 09:51:17 | INFO     | dailyagent.features.processor:generate_features:47 - Features geradas com sucesso: 500 candles processados.
+2026-04-16 09:51:18 | INFO     | dailyagent.regime.classifier:classify:29 - Regime detectado: bullish | Vol: normal | Score: 30
+2026-04-16 09:51:18 | INFO     | dailyagent.llm.debate:get_quick_verdict:110 - Quick verdict para GBPUSD (mode=binary)...
+2026-04-16 09:51:19 | INFO     | dailyagent.llm.debate:get_quick_verdict:141 - Quick verdict concluido para GBPUSD: **DECISAO: CALL | CONFIANCA: 75%**
+Regime bullish no M5 com RSI neutro (53.9) ap...
+2026-04-16 09:51:19 | INFO     | dailyagent.core.agent:_save_binary_result:434 - BinarySignal salvo: GBPUSD CALL M5 conf=75%
+2026-04-16 09:51:20 | INFO     | dailyagent.notifications.waha:send_message:46 - Mensagem enviada via WhatsApp para 5517981093560@c.us
+2026-04-16 09:51:20 | INFO     | dailyagent.core.agent:run_for_symbol_binary:229 - Sinal binario emitido: GBPUSD CALL M5 conf=75% entrada=1.3548
+2026-04-16 09:51:20 | INFO     | dailyagent.core.mt5_client:disconnect:22 - Desconectado do MT5
+2026-04-16 09:51:21 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para USDJPY (M5)...
+2026-04-16 09:51:21 | INFO     | dailyagent.core.mt5_client:connect:14 - Conectado ao terminal MT5 ativo.
+2026-04-16 09:51:21 | INFO     | dailyagent.features.processor:generate_features:14 - Gerando features para USDJPY (Timeframe: 16385)
+2026-04-16 09:51:21 | INFO     | dailyagent.core.mt5_client:get_data:35 - Dados capturados: 500 candles. Último (UTC): 2026-04-16 15:00:00+00:00
+2026-04-16 09:51:21 | INFO     | dailyagent.features.processor:generate_features:47 - Features geradas com sucesso: 300 candles processados.
+2026-04-16 09:51:21 | INFO     | dailyagent.regime.classifier:classify:29 - Regime detectado: bullish | Vol: expanding | Score: 30
+2026-04-16 09:51:21 | INFO     | dailyagent.features.processor:generate_features:14 - Gerando features para USDJPY (Timeframe: 5)
+2026-04-16 09:51:21 | INFO     | dailyagent.core.mt5_client:get_data:35 - Dados capturados: 700 candles. Último (UTC): 2026-04-16 15:50:00+00:00
+2026-04-16 09:51:21 | INFO     | dailyagent.features.processor:generate_features:47 - Features geradas com sucesso: 500 candles processados.
+2026-04-16 09:51:21 | INFO     | dailyagent.regime.classifier:classify:29 - Regime detectado: bullish | Vol: normal | Score: 20
+2026-04-16 09:51:21 | INFO     | dailyagent.llm.debate:get_quick_verdict:110 - Quick verdict para USDJPY (mode=binary)...
+2026-04-16 09:51:23 | INFO     | dailyagent.llm.debate:get_quick_verdict:141 - Quick verdict concluido para USDJPY: **DECISÃO: WAIT | CONFIÂNCA: 60%**
+RSI em sobrecompra (75.5) no regime atual sug...
+2026-04-16 09:51:23 | INFO     | dailyagent.core.agent:run_for_symbol_binary:195 - Binario USDJPY: WAIT conf=60% (threshold=65%) - sinal suprimido
+2026-04-16 09:51:23 | INFO     | dailyagent.core.mt5_client:disconnect:22 - Desconectado do MT5
+2026-04-16 09:51:24 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:126 - Ciclo binario concluido. Proximo em 60s.
+2026-04-16 09:52:24 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:104 - --- Ciclo BINARIO ---
+2026-04-16 09:52:24 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para EURUSD (M5)...
+2026-04-16 09:52:24 | INFO     | dailyagent.core.mt5_client:connect:14 - Conectado ao terminal MT5 ativo.
+2026-04-16 09:52:24 | INFO     | dailyagent.features.processor:generate_features:14 - Gerando features para EURUSD (Timeframe: 16385)
+2026-04-16 09:52:24 | INFO     | dailyagent.core.mt5_client:get_data:35 - Dados capturados: 500 candles. Último (UTC): 2026-04-16 15:00:00+00:00
+2026-04-16 09:52:24 | INFO     | dailyagent.features.processor:generate_features:47 - Features geradas com sucesso: 300 candles processados.
+2026-04-16 09:52:24 | INFO     | dailyagent.regime.classifier:classify:29 - Regime detectado: bearish | Vol: normal | Score: -30
+2026-04-16 09:52:24 | INFO     | dailyagent.features.processor:generate_features:14 - Gerando features para EURUSD (Timeframe: 5)
+2026-04-16 09:52:24 | INFO     | dailyagent.core.mt5_client:get_data:35 - Dados capturados: 700 candles. Último (UTC): 2026-04-16 15:50:00+00:00
+2026-04-16 09:52:24 | INFO     | dailyagent.features.processor:generate_features:47 - Features geradas com sucesso: 500 candles processados.
+2026-04-16 09:52:24 | INFO     | dailyagent.regime.classifier:classify:29 - Regime detectado: bullish | Vol: low | Score: 30
+2026-04-16 09:52:24 | INFO     | dailyagent.llm.debate:get_quick_verdict:110 - Quick verdict para EURUSD (mode=binary)...
+2026-04-16 09:52:27 | INFO     | dailyagent.llm.debate:get_quick_verdict:141 - Quick verdict concluido para EURUSD: **DECISAO: PUT | CONFIANCA: 65%**
+
+Justificativa: O regime inferior (M5) é *bull...
+2026-04-16 09:52:27 | INFO     | dailyagent.core.agent:_save_binary_result:434 - BinarySignal salvo: EURUSD PUT M5 conf=65%
+2026-04-16 09:52:27 | INFO     | dailyagent.notifications.waha:send_message:46 - Mensagem enviada via WhatsApp para 5517981093560@c.us
+2026-04-16 09:52:27 | INFO     | dailyagent.core.agent:run_for_symbol_binary:229 - Sinal binario emitido: EURUSD PUT M5 conf=65% entrada=1.17826
+2026-04-16 09:52:27 | INFO     | dailyagent.core.mt5_client:disconnect:22 - Desconectado do MT5
+2026-04-16 09:52:28 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para GBPUSD (M5)...
+2026-04-16 09:52:28 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para GBPUSD M5, pulando.
+2026-04-16 09:52:29 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para USDJPY (M5)...
+2026-04-16 09:52:30 | INFO     | dailyagent.core.mt5_client:connect:14 - Conectado ao terminal MT5 ativo.
+2026-04-16 09:52:30 | INFO     | dailyagent.features.processor:generate_features:14 - Gerando features para USDJPY (Timeframe: 16385)
+2026-04-16 09:52:30 | INFO     | dailyagent.core.mt5_client:get_data:35 - Dados capturados: 500 candles. Último (UTC): 2026-04-16 15:00:00+00:00
+2026-04-16 09:52:30 | INFO     | dailyagent.features.processor:generate_features:47 - Features geradas com sucesso: 300 candles processados.
+2026-04-16 09:52:30 | INFO     | dailyagent.regime.classifier:classify:29 - Regime detectado: bullish | Vol: expanding | Score: 30
+2026-04-16 09:52:30 | INFO     | dailyagent.features.processor:generate_features:14 - Gerando features para USDJPY (Timeframe: 5)
+2026-04-16 09:52:30 | INFO     | dailyagent.core.mt5_client:get_data:35 - Dados capturados: 700 candles. Último (UTC): 2026-04-16 15:50:00+00:00
+2026-04-16 09:52:30 | INFO     | dailyagent.features.processor:generate_features:47 - Features geradas com sucesso: 500 candles processados.
+2026-04-16 09:52:30 | INFO     | dailyagent.regime.classifier:classify:29 - Regime detectado: bullish | Vol: normal | Score: 20
+2026-04-16 09:52:30 | INFO     | dailyagent.llm.debate:get_quick_verdict:110 - Quick verdict para USDJPY (mode=binary)...
+2026-04-16 09:52:32 | INFO     | dailyagent.llm.debate:get_quick_verdict:141 - Quick verdict concluido para USDJPY: **DECISAO: WAIT | CONFIANCA: 60%**
+RSI em sobrecompra (75.8) no M5 sugere possív...
+2026-04-16 09:52:32 | INFO     | dailyagent.core.agent:run_for_symbol_binary:195 - Binario USDJPY: WAIT conf=60% (threshold=65%) - sinal suprimido
+2026-04-16 09:52:32 | INFO     | dailyagent.core.mt5_client:disconnect:22 - Desconectado do MT5
+2026-04-16 09:52:33 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:126 - Ciclo binario concluido. Proximo em 60s.
+2026-04-16 09:53:33 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:104 - --- Ciclo BINARIO ---
+2026-04-16 09:53:33 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para EURUSD (M5)...
+2026-04-16 09:53:33 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para EURUSD M5, pulando.
+2026-04-16 09:53:34 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para GBPUSD (M5)...
+2026-04-16 09:53:34 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para GBPUSD M5, pulando.
+2026-04-16 09:53:35 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para USDJPY (M5)...
+2026-04-16 09:53:35 | INFO     | dailyagent.core.mt5_client:connect:14 - Conectado ao terminal MT5 ativo.
+2026-04-16 09:53:35 | INFO     | dailyagent.features.processor:generate_features:14 - Gerando features para USDJPY (Timeframe: 16385)
+2026-04-16 09:53:35 | INFO     | dailyagent.core.mt5_client:get_data:35 - Dados capturados: 500 candles. Último (UTC): 2026-04-16 15:00:00+00:00
+2026-04-16 09:53:35 | INFO     | dailyagent.features.processor:generate_features:47 - Features geradas com sucesso: 300 candles processados.
+2026-04-16 09:53:35 | INFO     | dailyagent.regime.classifier:classify:29 - Regime detectado: bullish | Vol: expanding | Score: 30
+2026-04-16 09:53:35 | INFO     | dailyagent.features.processor:generate_features:14 - Gerando features para USDJPY (Timeframe: 5)
+2026-04-16 09:53:35 | INFO     | dailyagent.core.mt5_client:get_data:35 - Dados capturados: 700 candles. Último (UTC): 2026-04-16 15:50:00+00:00
+2026-04-16 09:53:35 | INFO     | dailyagent.features.processor:generate_features:47 - Features geradas com sucesso: 500 candles processados.
+2026-04-16 09:53:35 | INFO     | dailyagent.regime.classifier:classify:29 - Regime detectado: bullish | Vol: normal | Score: 20
+2026-04-16 09:53:35 | INFO     | dailyagent.llm.debate:get_quick_verdict:110 - Quick verdict para USDJPY (mode=binary)...
+2026-04-16 09:53:37 | INFO     | dailyagent.llm.debate:get_quick_verdict:141 - Quick verdict concluido para USDJPY: **DECISAO: WAIT | CONFIANCA: 60%**
+
+O RSI está em *overbought* (76.95) no M5, su...
+2026-04-16 09:53:37 | INFO     | dailyagent.core.agent:run_for_symbol_binary:195 - Binario USDJPY: WAIT conf=60% (threshold=65%) - sinal suprimido
+2026-04-16 09:53:37 | INFO     | dailyagent.core.mt5_client:disconnect:22 - Desconectado do MT5
+2026-04-16 09:53:38 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:126 - Ciclo binario concluido. Proximo em 60s.
+2026-04-16 09:54:38 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:104 - --- Ciclo BINARIO ---
+2026-04-16 09:54:38 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para EURUSD (M5)...
+2026-04-16 09:54:38 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para EURUSD M5, pulando.
+2026-04-16 09:54:39 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para GBPUSD (M5)...
+2026-04-16 09:54:39 | INFO     | dailyagent.core.agent:run_for_symbol_binary:152 - Sinal binario OPEN ja existe para GBPUSD M5, pulando.
+2026-04-16 09:54:40 | INFO     | dailyagent.core.agent:run_for_symbol_binary:137 - Iniciando analise binaria para USDJPY (M5)...
+2026-04-16 09:54:40 | INFO     | dailyagent.core.mt5_client:connect:14 - Conectado ao terminal MT5 ativo.
+2026-04-16 09:54:40 | INFO     | dailyagent.features.processor:generate_features:14 - Gerando features para USDJPY (Timeframe: 16385)
+2026-04-16 09:54:40 | INFO     | dailyagent.core.mt5_client:get_data:35 - Dados capturados: 500 candles. Último (UTC): 2026-04-16 15:00:00+00:00
+2026-04-16 09:54:40 | INFO     | dailyagent.features.processor:generate_features:47 - Features geradas com sucesso: 300 candles processados.
+2026-04-16 09:54:40 | INFO     | dailyagent.regime.classifier:classify:29 - Regime detectado: bullish | Vol: expanding | Score: 30
+2026-04-16 09:54:40 | INFO     | dailyagent.features.processor:generate_features:14 - Gerando features para USDJPY (Timeframe: 5)
+2026-04-16 09:54:40 | INFO     | dailyagent.core.mt5_client:get_data:35 - Dados capturados: 700 candles. Último (UTC): 2026-04-16 15:50:00+00:00
+2026-04-16 09:54:40 | INFO     | dailyagent.features.processor:generate_features:47 - Features geradas com sucesso: 500 candles processados.
+2026-04-16 09:54:40 | INFO     | dailyagent.regime.classifier:classify:29 - Regime detectado: bullish | Vol: normal | Score: 20
+2026-04-16 09:54:40 | INFO     | dailyagent.llm.debate:get_quick_verdict:110 - Quick verdict para USDJPY (mode=binary)...
+2026-04-16 09:54:42 | INFO     | dailyagent.llm.debate:get_quick_verdict:141 - Quick verdict concluido para USDJPY: **DECISÃO: CALL | CONFIANÇA: 65%**
+Justificativa: Tendência bullish confirmada e...
+2026-04-16 09:54:42 | INFO     | dailyagent.core.agent:_save_binary_result:434 - BinarySignal salvo: USDJPY CALL M5 conf=65%
+2026-04-16 09:54:43 | INFO     | dailyagent.notifications.waha:send_message:46 - Mensagem enviada via WhatsApp para 5517981093560@c.us
+2026-04-16 09:54:43 | INFO     | dailyagent.core.agent:run_for_symbol_binary:229 - Sinal binario emitido: USDJPY CALL M5 conf=65% entrada=159.077
+2026-04-16 09:54:43 | INFO     | dailyagent.core.mt5_client:disconnect:22 - Desconectado do MT5
+2026-04-16 09:54:44 | INFO     | dailyagent.core.monitor:_binary_monitor_loop:126 - Ciclo binario concluido. Proximo em 60s.
+2026-04-16 09:55:10 | INFO     | __main__:_shutdown:61 - Encerrando DailyAgent Server...
+2026-04-16 09:55:10 | INFO     | dailyagent.core.monitor:stop:132 - Monitoramento parado.
+2026-04-16 09:55:10 | INFO     | __main__:_shutdown:61 - Encerrando DailyAgent Server...
+2026-04-16 09:55:10 | INFO     | dailyagent.core.monitor:stop:132 - Monitoramento parado.
