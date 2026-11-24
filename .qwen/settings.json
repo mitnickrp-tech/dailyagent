@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(.venv\\scripts\\python.exe *)",
-      "Bash(findstr *)"
-    ]
-  },
-  "$version": 3
-}
