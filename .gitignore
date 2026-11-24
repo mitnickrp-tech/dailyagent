@@ -1,0 +1,39 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+config.json
+config.local.json
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Runtime artifacts
+logs/
+*.log
+*.csv
+*.jsonl
+*.sqlite
+*.db
+*.rar
+*.zip
+
+# Frontend
+node_modules/
+dashboard/node_modules/
+dashboard/dist/
+dist/
+build/
+
+# OS and IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
