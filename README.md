@@ -271,6 +271,8 @@ pip install -r requirements.txt
 ```bash
 copy .env.example .env  # Windows
 cp .env.example .env    # Linux/Mac
+copy config.example.json config.json  # Windows
+cp config.example.json config.json   # Linux/Mac
 ```
 
 Edite o `.env`:
@@ -284,7 +286,7 @@ DB_USER=postgres
 DB_PASSWORD=senha_do_banco
 ```
 
-4. **Configure o `config.json`**
+4. **Configure o `config.json`** (crie uma cópia local de `config.example.json`; o arquivo real fica fora do Git)
 ```json
 {
   "llm": {
