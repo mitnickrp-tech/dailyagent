@@ -1,0 +1,72 @@
+{
+  "llm": {
+    "provider": "nvidia",
+    "max_rpm": 30,
+    "max_retries": 3,
+    "openrouter_models": {
+      "trend_model": "openrouter/model-name",
+      "contrarian_model": "provider/model-name",
+      "fundamental_model": "provider/model-name",
+      "moderator_model": "provider/model-name",
+      "whatsapp_agent": "provider/model-name"
+    },
+    "nvidia_models": {
+      "trend_model": "provider/model-name",
+      "contrarian_model": "provider/model-name",
+      "fundamental_model": "provider/model-name",
+      "moderator_model": "provider/model-name",
+      "whatsapp_agent": "provider/model-name"
+    }
+  },
+  "notifications": {
+    "ntfy_enabled": false,
+    "waha_enabled": false
+  },
+  "ntfy": {
+    "topic": "replace-with-private-topic",
+    "url": "https://ntfy.sh/",
+    "user": "",
+    "password": ""
+  },
+  "waha": {
+    "api_url": "",
+    "session": "default",
+    "recipient_phone": "",
+    "webhook_token": "",
+    "api_key": ""
+  },
+  "whatsapp_config": {
+    "rate_limit_max_requests": 10,
+    "rate_limit_window_seconds": 60,
+    "analysis_timeout_seconds": 180,
+    "llm_timeout_seconds": 60
+  },
+  "monitoring": {
+    "default_interval_minutes": 15,
+    "assets": [
+      "EURUSD",
+      "GBPUSD",
+      "USDJPY",
+      "BTCUSD",
+      "ETHUSD",
+      "NAS100",
+      "SPX500"
+    ]
+  },
+  "binary": {
+    "enabled": false,
+    "expirations": [
+      "M1",
+      "M5",
+      "M15"
+    ],
+    "default_expiration": "M5",
+    "confidence_threshold": 65,
+    "monitor_interval_seconds": 60,
+    "assets": [
+      "EURUSD",
+      "GBPUSD",
+      "USDJPY"
+    ]
+  }
+}
